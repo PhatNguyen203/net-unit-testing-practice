@@ -1,0 +1,12 @@
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\bin\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
