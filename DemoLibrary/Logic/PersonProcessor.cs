@@ -25,7 +25,7 @@ namespace DemoLibrary.Logic
 			bool isValid = true;
 			int feetsIndicator = height.IndexOf('\'');
 			int inchesIndicator = height.IndexOf('"');
-			if (feetsIndicator < 0 || inchesIndicator < 0)
+			if (feetsIndicator < 0 || inchesIndicator < 0 || inchesIndicator < feetsIndicator)
 				return (false, 0);
 			// Split on both the feet and inches indicators
 			string[] heightParts = height.Split(new char[] { '\'', '"' });

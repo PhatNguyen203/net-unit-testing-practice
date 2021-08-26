@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{3C73A842-A489-49DA-8680-88FBC9E5FF49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqTest", "MoqTest\MoqTest.csproj", "{451E7983-09DD-4A3A-9048-58E4C88F9D7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3C73A842-A489-49DA-8680-88FBC9E5FF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C73A842-A489-49DA-8680-88FBC9E5FF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C73A842-A489-49DA-8680-88FBC9E5FF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451E7983-09DD-4A3A-9048-58E4C88F9D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451E7983-09DD-4A3A-9048-58E4C88F9D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451E7983-09DD-4A3A-9048-58E4C88F9D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451E7983-09DD-4A3A-9048-58E4C88F9D7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
