@@ -121,3 +121,4 @@ C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\MoqTest\
 C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\MoqTest\obj\Debug\net5.0\ref\MoqTest.dll
 C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\MoqTest\obj\Debug\net5.0\MoqTest.pdb
 C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\MoqTest\obj\Debug\net5.0\MoqTest.genruntimeconfig.cache
+C:\Users\Lee0n\OneDrive\Desktop\New folder\New folder\NetCore\ConsoleUI\MoqTest\bin\Debug\net5.0\Autofac.Extras.Moq.dll

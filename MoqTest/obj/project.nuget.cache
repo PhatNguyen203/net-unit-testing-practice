@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wPWGP38Auj81D6OBSttZz0P4/B2F+lQsHwQ0YwtKqb9M30iuHzKVOymGuUBci0hSNGpqC6FntSZsACfbKtF6Eg==",
+  "dgSpecHash": "zkroT8nlsborQWa1Kul4gMzaNePaRyBNdD3RhEBahuzt6HO0GRgQAWeRik885MNtLs4Uqr/joDoU00OMrFolWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lee0n\\OneDrive\\Desktop\\New folder\\New folder\\NetCore\\ConsoleUI\\MoqTest\\MoqTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lee0n\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\Lee0n\\.nuget\\packages\\autofac.extras.moq\\6.0.0\\autofac.extras.moq.6.0.0.nupkg.sha512",
     "C:\\Users\\Lee0n\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Lee0n\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Lee0n\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
